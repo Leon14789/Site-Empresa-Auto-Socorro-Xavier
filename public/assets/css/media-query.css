@@ -1,0 +1,14 @@
+@media (min-width: 320px) and (max-width: 480px) {
+ 
+    #header {
+       background-image: url("../images/header/header-mobile.jpg") !important;
+    }
+    
+   
+    .btn-whatsapp-pulse {
+      position: absolute !important;
+      right: -35px !important;
+top: 190px;
+    }
+   
+   }
